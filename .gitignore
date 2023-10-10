@@ -1,0 +1,6 @@
+#env
+.env
+venv
+
+mmaction2
+yolov8m.pt
